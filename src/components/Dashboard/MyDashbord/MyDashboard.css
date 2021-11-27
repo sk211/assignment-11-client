@@ -1,0 +1,15 @@
+#dashboaard li {
+  cursor: pointer;
+  padding: 10px 0;
+  border-bottom: 2px solid;
+  color: #fff;
+  font-size: 16px;
+}
+
+#dashboaard {
+  background: #e13434;
+}
+
+.col-lg-4.vh-100.text-light.pt-4 {
+  background: #3498db;
+}
